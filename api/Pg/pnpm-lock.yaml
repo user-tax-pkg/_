@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  postgres: ^3.3.3
+
+dependencies:
+  postgres: 3.3.3
+
+packages:
+
+  /postgres/3.3.3:
+    resolution: {integrity: sha512-FGLZOpZSXePRIQu6LJpJUDikzuhplWI80uyyfmKBiljpfO+Z4nuClwpq3/dsRnitxVDsgFN5duJ7eUTaC0meQQ==}
+    dev: false

@@ -1,0 +1,1 @@
+export const CONFIRM=0;

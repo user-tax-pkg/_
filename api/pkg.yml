@@ -1,0 +1,7 @@
+. :
+  db:
+    schema: public
+  dir: Init Core Pg Http Redis
+
+mail :
+  dir: Mail

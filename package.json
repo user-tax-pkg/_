@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@u7/node-loader": "^0.0.49"
+  }
+}

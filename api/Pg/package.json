@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "postgres": "^3.3.3"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  }
+}

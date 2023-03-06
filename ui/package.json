@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@user.tax/sdk": "^0.0.44",
+    "radix-64": "^1.0.4"
+  }
+}
