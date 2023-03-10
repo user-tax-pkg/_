@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "postgres": "^3.3.3"
+    "postgres": "^3.3.4"
   },
   "exports": {
     ".": "./index.js",
