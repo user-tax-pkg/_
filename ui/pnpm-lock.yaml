@@ -1,11 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@user.tax/sdk': ^0.0.44
+  '@user.tax/sdk': ^0.0.46
   radix-64: ^1.0.4
 
 devDependencies:
-  '@user.tax/sdk': 0.0.44
+  '@user.tax/sdk': 0.0.46
   radix-64: 1.0.4
 
 packages:
@@ -58,14 +58,9 @@ packages:
     dev: true
     optional: true
 
-  /@u7/sleep/0.0.3:
-    resolution: {integrity: sha512-oPURSbxdxR26Zz5YCTczmQxPrz9h0VNvtZQixLb9wCaCbwidA0odrx7eyz10gihYXdjNheHfXCwbIdr6qwxPHA==}
-    dev: true
-
-  /@user.tax/sdk/0.0.44:
-    resolution: {integrity: sha512-gGWq+eI3l8Ll3w86REOrEqCNPPMzRlNtKSTHH5zEI8QX55oq4yebyrdO2ZDKcpkvtLXcaqQeD5Nu5ypxHuT80A==}
+  /@user.tax/sdk/0.0.46:
+    resolution: {integrity: sha512-yxjrztG/PKldKd1iqO5921xSuayiLjgrLz7S4/hVpuUHqXR+UOTsjKy2pjZP90vRw38l875Gtbl92L7rcPauQQ==}
     dependencies:
-      '@u7/sleep': 0.0.3
       msgpackr: 1.8.3
     dev: true
 
