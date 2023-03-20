@@ -1,4 +1,4 @@
-> @user.tax/sdk
+> @w5/sdk
   ./gen/sdkThrow.js
   ./CDN.js > set:cdnSet
   ./lang.js:@ > HOOK
